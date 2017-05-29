@@ -1,0 +1,11 @@
+b=28
+a=(b*2)
+c=a-b
+print(a)
+56
+print(b)
+28
+print(c)
+28
+print("c")
+c

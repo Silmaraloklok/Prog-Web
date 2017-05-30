@@ -1,5 +1,2 @@
-a = int(input("Digite o primeiro numero: "))
-
-b = int(input("Digite o segundo numero: "))
-soma=a+b
-print("A soma é ",soma)
+a = input("Digite um número: ")
+print("O numedo informado foi", a)

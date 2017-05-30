@@ -1,6 +1,4 @@
-n1= input("Digite a primeira nota")
-n2= input("Digite a primeira nota")
-n3= input("Digite a primeira nota")
-n4= input("Digite a primeira nota")
-media=(n1+n2+n3+n4)/4
-print("A media das notas foi:  ",media)
+n1= int(input("Digite o primeiro número "))
+n2= int(input("Digite o segundo número "))
+soma = (n1+n2)
+print("A soma de ",n1," com ",n2," é igual a ",soma)

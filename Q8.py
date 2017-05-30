@@ -1,4 +1,6 @@
-n1=int(input ("Digite o primeiro numero:"))
-n2=int(input ("Digite o segundo numero:"))
-m=n1*n2
-print("A multiplicação  de ",n1," e ",n2," é  ",mult)
+n1=int(input ("Digite a primeira nota:"))
+n2=int(input ("Digite a segunda nota:"))
+n3=int(input ("Digite a terceira nota:"))
+n4=int(input ("Digite a quarta nota:"))
+m=(n1+n2+n3+n4)/4
+print("A media das notas é ",m)
